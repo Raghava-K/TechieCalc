@@ -5,5 +5,5 @@ PKGS="http://nginx.org/download/nginx-1.22.1.zip done https://dlcdn.apache.org/h
 for p in $PKGS
 do
    echo "Installing $p package"
-   .
+   
 done
